@@ -7,6 +7,23 @@ It now also supports Gen3 and Gen3 Turbo models!
 
 > 📢 Connect with us! Join our Telegram group for support and collaboration: [t.me/igohub](https://t.me/igohub)
 
+> [!TIP]
+>
+> ## 🌟 Looking for a No-Code Solution?
+>
+> **[Runway Automation Actor](https://apify.com/igolaizola/runway-automation)** - all the power of vidai with zero setup!
+>
+> - 🎯 No CLI or technical setup required
+> - 🖥️ Simple web interface
+> - 🔄 Automatic video generation (text-to-video and image-to-video)
+> - 📊 Concurrent job processing
+> - 📁 Built-in video gallery
+> - ☁️ Cloud-based - run from anywhere
+>
+> Starting at $19/month. Perfect for users who want to skip the technical setup and get straight to generating images.
+>
+> [Get Started with Runway Automation →](https://apify.com/igolaizola/runway-automation)
+
 ## 🚀 Features
 
 - Generate videos directly from the command line using a text or image prompt.
